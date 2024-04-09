@@ -1,0 +1,11 @@
+{
+  "_class_name": "PriorTransformer",
+  "_diffusers_version": "0.17.0.dev0",
+  "additional_embeddings": 4,
+  "attention_head_dim": 64,
+  "dropout": 0.0,
+  "embedding_dim": 1280,
+  "num_attention_heads": 32,
+  "num_embeddings": 77,
+  "num_layers": 20
+}
