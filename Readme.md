@@ -5,7 +5,7 @@
     <img src='https://img.shields.io/badge/IEEE-ICME-blue' alt='IEEE'>
   </a>
   <a href="https://github.com/gaogao2002/ALDM" style="margin: 0 2px;">
-    <img src='https://img.shields.io/badge/GitHub-Repo-black?style=flat&logo=GitHub' alt='GitHub'>
+    <img src='https://img.shields.io/badge/GitHub-Repo-red?style=flat&logo=GitHub' alt='GitHub'>
   </a>
   <a href="https://github.com/Zheng-Chong/CatVTON/LICENCE" style="margin: 0 2px;">
     <img src='https://img.shields.io/badge/License-CC BY--NC--SA--4.0-lightgreen?style=flat&logo=Lisence' alt='License'>
