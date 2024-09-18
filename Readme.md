@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://gaogao2002.github.io/Bo-Gao/data/try_on_ICME2024.pdf" style="margin: 0 2px;">
-    <img src='https://img.shields.io/badge/IEEE-ICME-blue' alt='IEEE'>
+    <img src='https://img.shields.io/badge/IEEE-ICME-green?logo=IEEE&labelColor=blue' alt='IEEE'>
   </a>
   <a href="https://github.com/gaogao2002/ALDM" style="margin: 0 2px;">
     <img src='https://img.shields.io/badge/GitHub-Repo-red?style=flat&logo=GitHub' alt='GitHub'>
