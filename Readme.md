@@ -1,4 +1,4 @@
-# Exploring Warping-Guided Features via Adaptive Latent Diffusion Model for Virtual Try-On
+# Exploring Warping-Guided Features via Adaptive Latent Diffusion Model for Virtual Try-On (ICME 2024)
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://gaogao2002.github.io/Bo-Gao/data/try_on_ICME2024.pdf" style="margin: 0 2px;">
