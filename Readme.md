@@ -1,5 +1,3 @@
-Remember to modify the dataset path and the pre-trained weights path.
-
 # Exploring Warping-Guided Features via Adaptive Latent Diffusion Model for Virtual Try-On
 
 <div style="display: flex; justify-content: center; align-items: center;">
@@ -82,7 +80,8 @@ CUDA_VISIBLE_DEVICES=0 python app.py \
 ```
 When using `bf16` precision, generating results with a resolution of `1024x768` only requires about `8G` VRAM. -->
 
-## Train
+## Train and Inference
+!!! Remember to modify the dataset path and the pre-trained weights path.
 ### 1. Data Preparation(It is the same with test data)
 Before training, you need to download the [VITON-HD](https://github.com/shadow2496/VITON-HD) or [DressCode](https://github.com/aimagelab/dress-code) dataset.
 Once the datasets are downloaded, the folder structures should look like these:
