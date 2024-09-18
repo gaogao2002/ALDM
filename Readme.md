@@ -110,12 +110,7 @@ Once the datasets are downloaded, the folder structures should look like these:
 │   │   ├── agnostic_masks
 │   │   │   ├── [013563_0.png| 013564_0.png | ...]
 ...
-<!-- ```
-For the DressCode dataset, we provide script to preprocessed agnostic masks, run the following command:
-```PowerShell
-CUDA_VISIBLE_DEVICES=0 python preprocess_agnostic_mask.py \
---data_root_path <your_path_to_DressCode> 
-``` -->
+```
 
 ### 2. Train and Inference on VTIONHD/DressCode
 To run the training and inference on the DressCode or VITON-HD dataset, run the following command.
