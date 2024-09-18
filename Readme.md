@@ -19,7 +19,7 @@ Remember to modify the dataset path and the pre-trained weights path.
 **ALDM** is a novel adaptive latent diffusion model (ALDM) to implement warpingguided before generating target images, which contains two
 modules: ***1)prior warping module (PWM) and ***2)adaptive alignment module (AAM).
 <div align="center">
-  <img src="resource/img/com.pdf" width="85%" height="100%"/>
+  <img src="com.pdf" width="85%" height="100%"/>
 </div>
 
 
