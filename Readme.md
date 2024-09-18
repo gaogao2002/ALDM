@@ -119,13 +119,15 @@ train PWM :
 $ cd ./PWM
 $ sh train.sh
 
-test PWM:
+test PWM :
 python3 stage1_batchtest_prior_model.py
+
+cd ../ALDM
 
 train ALDM:
 $ sh my_train.sh
 
-test ALDM
+test ALDM :
 $ python3 test.py
 ```
 
