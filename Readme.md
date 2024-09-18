@@ -112,7 +112,7 @@ Once the datasets are downloaded, the folder structures should look like these:
 ...
 ```
 
-### 2. Train and Inference on VTIONHD/DressCode
+### 2. Train and Inference on VITON-HD/DressCode
 To run the training and inference on the DressCode or VITON-HD dataset, run the following command.
 
 ```PowerShell
