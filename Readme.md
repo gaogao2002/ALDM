@@ -150,7 +150,7 @@ CUDA_VISIBLE_DEVICES=0 python eval.py \
 
 
 ## Acknowledgement
-Our code is modified based on [Diffusers](https://github.com/huggingface/diffusers). We adopt [Stable Diffusion v2.1](https://huggingface.co/stabilityai/stable-diffusion-2-1-base) as the base model. In PWM and ALDM, we respectively use [OpenCLIP ViT-H/14](https://huggingface.co/laion/CLIP-ViT-H-14-laion2B-s32B-b79K) and [DINOv2-G/14](https://github.com/facebookresearch/dinov2) as the image encoder
+Our code is modified based on [Diffusers](https://github.com/huggingface/diffusers). We adopt [Stable Diffusion v2.1](https://huggingface.co/stabilityai/stable-diffusion-2-1-base) as the base model. In PWM and ALDM, we respectively use [OpenCLIP ViT-H/14](https://huggingface.co/laion/CLIP-ViT-H-14-laion2B-s32B-b79K) and [DINOv2-G/14](https://github.com/facebookresearch/dinov2) as the image encoder.
 
 ## License
 All the materials, including code, checkpoints, and demo, are made available under the [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. You are free to copy, redistribute, remix, transform, and build upon the project for non-commercial purposes, as long as you give appropriate credit and distribute your contributions under the same license.
