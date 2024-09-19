@@ -10,6 +10,9 @@
   <a href="https://github.com/Zheng-Chong/CatVTON/LICENCE" style="margin: 0 2px;">
     <img src='https://img.shields.io/badge/License-CC BY--NC--SA--4.0-lightgreen?style=flat&logo=Lisence' alt='License'>
   </a>
+  <a href="https://gaogao2002.github.io/Bo-Gao/" style="margin: 0 2px;">
+    <img src='https://img.shields.io/badge/SYSU-Author-purple?logo=Sun%20Yat-sen' alt='Author'>
+  </a>
 </div>
 
 
