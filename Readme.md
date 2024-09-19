@@ -18,8 +18,9 @@
 
 
 **ALDM** is a novel adaptive latent diffusion model (ALDM) to implement warping-guided feature before generating target images, which contains two
-modules: 1)prior warping module (PWM) and 2)adaptive alignment module (AAM). Our proposed ALDM is a denoising diffusion model
-where the generative path is conditioned on the reference clothing (𝐼𝑟) and source image (𝐼).
+modules: 1)prior warping module (PWM) and 2)adaptive alignment module (AAM). Our proposed ALDM is a denoising diffusion model,
+which srives to generate a target image of human, accurately attired in a reference garment, using
+a source image (𝐼) and the reference clothing (𝐼𝑟).
 <div align="center">
   <img src="main.png" width="85%" height="100%"/>
 </div>
