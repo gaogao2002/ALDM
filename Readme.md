@@ -11,7 +11,7 @@
     <img src='https://img.shields.io/badge/License-CC BY--NC--SA--4.0-lightgreen?style=flat&logo=Lisence' alt='License'>
   </a>
   <a href="https://gaogao2002.github.io/Bo-Gao/" style="margin: 0 2px;">
-    <img src='https://img.shields.io/badge/SYSU-Author-purple?logo=Sun%20Yat-sen' alt='Author'>
+    <img src='https://img.shields.io/badge/SYSU-Author-purple?logo=Sun%20Yat-sen%20university&labelColor=green' alt='Author'>
   </a>
 </div>
 
