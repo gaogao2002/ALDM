@@ -1,7 +1,7 @@
 # Exploring Warping-Guided Features via Adaptive Latent Diffusion Model for Virtual Try-On (ICME 2024)
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://gaogao2002.github.io/Bo-Gao/data/try_on_ICME2024.pdf" style="margin: 0 2px;">
+  <a href="https://www.computer.org/csdl/proceedings-article/icme/2024/10687416/20F0tEWMbmw" style="margin: 0 2px;">
     <img src='https://img.shields.io/badge/IEEE-ICME-green?logo=IEEE&labelColor=blue' alt='IEEE'>
   </a>
   <a href="https://github.com/gaogao2002/ALDM" style="margin: 0 2px;">
